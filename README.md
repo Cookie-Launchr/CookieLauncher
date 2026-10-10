@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Prism Launcher is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.<br />
+  Cookie Launcher is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.<br />
   <br />This is a <b>fork</b> of the MultiMC Launcher and is <b>not</b> endorsed by it.
 </p>
 
@@ -36,22 +36,6 @@ These have debug information in the binaries, so their file sizes are relatively
 Prebuilt Development builds are provided for **Linux**, **Windows** and **macOS**.
 
 On Linux, we also offer our own [Flatpak nightly repository](https://github.com/PrismLauncher/flatpak). Most software centers are able to install it by opening [this link](https://flatpak.prismlauncher.org/prismlauncher-nightly.flatpakref).
-
-## Community & Support
-
-Feel free to create a GitHub issue if you find a bug or want to suggest a new feature. We have multiple community spaces where other community members can help you:
-
-- **Our Discord server:**
-
-[![Prism Launcher Discord server](https://discordapp.com/api/guilds/1031648380885147709/widget.png?style=banner3)](https://prismlauncher.org/discord)
-
-- **Our Matrix space:**
-
-[![Prism Launcher Space](https://img.shields.io/matrix/prismlauncher:matrix.org?style=for-the-badge&label=Matrix%20Space&logo=matrix&color=purple)](https://prismlauncher.org/matrix)
-
-- **Our Subreddit:**
-
-[![r/PrismLauncher](https://img.shields.io/reddit/subreddit-subscribers/prismlauncher?style=for-the-badge&logo=reddit)](https://prismlauncher.org/reddit)
 
 ## Translations
 
